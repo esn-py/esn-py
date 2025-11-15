@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm a student from NTHU. Majoring FLL and double majoring in QF. I'm currently working on a Fintech project.
+Good to see ya'll here!
 <!--
 **esn-py/esn-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
